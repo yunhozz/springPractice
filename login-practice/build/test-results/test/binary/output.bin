@@ -1,0 +1,1 @@
+ù23:04:55.079 [Test worker] INFO loginpractice.domain.member.MemoryMemberRepository - save: memberMember(id=1, loginId=test123, loginPw=Test123!, name=null)
